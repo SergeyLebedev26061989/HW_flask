@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="phones.views.show_catalog" />
+          <option value="str.decode" />
+          <option value="measurement.models" />
+          <option value="api_with_restrictions.advertisements.views.advertisements" />
+          <option value="students.models.Course.objects" />
+          <option value="django_testing.tests.students.test_courses_api.students" />
+          <option value="tests.students.test_courses_api.model_bakery" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
